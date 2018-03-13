@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick AND simple.
 Add a new message for test.
 Add a new message for test stash.
+Test dev git push.
